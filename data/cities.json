@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Mysore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-09T13:18:16.769Z",
+      "notes": "Great City!!",
+      "position": {
+        "lat": "12.297068292853817",
+        "lng": "76.65435791015626"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-09T13:19:02.630Z",
+      "notes": "Very Good",
+      "position": {
+        "lat": "17.444991866993277",
+        "lng": "78.50830078125001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-07-12T11:54:41.000Z",
+      "notes": "My first International trip!",
+      "position": {
+        "lat": "35.737595151747826",
+        "lng": "139.80651855468753"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-28T11:56:56.036Z",
+      "notes": "Amazing Architecture 😃",
+      "position": {
+        "lat": "48.84302835299519",
+        "lng": "2.3620605468750004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-28T11:57:26.734Z",
+      "notes": "Amazing Skyscrapers 😮",
+      "position": {
+        "lat": "40.697299008636755",
+        "lng": "-73.98193359375001"
+      },
+      "id": 98443203
+    }
+  ]
+}
